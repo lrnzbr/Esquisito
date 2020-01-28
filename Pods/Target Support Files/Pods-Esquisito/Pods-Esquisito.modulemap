@@ -1,0 +1,6 @@
+framework module Pods_Esquisito {
+  umbrella header "Pods-Esquisito-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256518824304-njaouqg4fcp18o1ot6kgdc69gqpanboh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256518824304-njaouqg4fcp18o1ot6kgdc69gqpanboh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwbWRpdcge-2fQqStSsboIu6C06OOnJIo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256518824304</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.lorenzobrown.Esquisito</string>
+	<key>PROJECT_ID</key>
+	<string>esquisito-cca0e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esquisito-cca0e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256518824304:ios:128986c2a4eb7d06f66fb5</string>
+	<key>DATABASE_URL</key>
+	<string>https://esquisito-cca0e.firebaseio.com</string>
+</dict>
+</plist>
