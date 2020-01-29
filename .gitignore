@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.iml
+*.tgz
+scripts/*.json
+
+lib/
+dev/
+Pods/
+xcuserdata/
+*.xcworkspace/
+GoogleService-Info.plist
+Secrets
